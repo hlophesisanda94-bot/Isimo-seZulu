@@ -53,7 +53,7 @@ main {
   color: rbg(39, 33, 66, 0.4);
   font-weight: 500;
 }
-.weather-app-detail strong {
+.weather-app-details strong {
   color: #f65282;
 }
 .weather-app-temprature-container {
