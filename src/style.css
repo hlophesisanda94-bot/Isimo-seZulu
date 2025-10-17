@@ -56,14 +56,14 @@ main {
 .weather-app-details strong {
   color: #f65282;
 }
-.weather-app-temprature-container {
+.weather-app-temperature-container {
   display: flex;
 }
 .weather-app-icon {
   font: 88px;
   height: 88px;
 }
-.weather-app-temprature {
+.weather-app-temperature {
   font-size: 88px;
   line-height: 88px;
   font-weight: bold;
